@@ -13,3 +13,11 @@ License: Creative Commons 0
 stone_mechanisem_loop_01.wav by Claire.H 
 -- https://freesound.org/s/182345/ -- 
 License: Attribution 3.0
+
+2024-02-16_Background-Sound_Game-music_Remix by kevp888 
+-- https://freesound.org/s/723909/ -- 
+License: Attribution NonCommercial 4.0
+
+Victory Music Cue.wav by joshuaempyre 
+-- https://freesound.org/s/404025/ -- 
+License: Attribution 4.0
