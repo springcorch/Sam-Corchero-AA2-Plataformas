@@ -21,3 +21,8 @@ License: Attribution NonCommercial 4.0
 Victory Music Cue.wav by joshuaempyre 
 -- https://freesound.org/s/404025/ -- 
 License: Attribution 4.0
+
+ALL DIRT STEPS ARE FROM THE SAME AUTHOR:
+Steps-Dirt_2a.OGG by nuFF3 
+-- https://freesound.org/s/477390/ 
+-- License: Attribution 4.0
