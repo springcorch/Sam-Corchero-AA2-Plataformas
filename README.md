@@ -30,3 +30,15 @@ License: Attribution 4.0
 Engine Dying by Jofae 
 -- https://freesound.org/s/368512/ -- 
 License: Creative Commons 0
+
+Retro video game sfx - Collect 1 by OwlStorm 
+-- https://freesound.org/s/404774/ -- 
+License: Creative Commons 0
+
+Microwave Door Open.wav by Motion_S 
+-- https://freesound.org/s/178413/ -- 
+License: Attribution 4.0
+
+crystal_loop_withhum.wav by markians 
+-- https://freesound.org/s/511772/ -- 
+License: Creative Commons 0
